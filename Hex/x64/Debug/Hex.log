@@ -1,0 +1,11 @@
+﻿  Hex.cpp
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\Hex.cpp(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\Hex.cpp(24,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\Hex.cpp(25,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\Hex.cpp(76,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\Hex.cpp(77,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  hex_class.cpp
+C:\Users\Sambor\Desktop\studia\AIDS\Hex\hex_class.cpp(23,13): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\Sambor\Desktop\studia\AIDS\Hex\x64\Debug\Hex.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  Hex.vcxproj -> C:\Users\Sambor\Desktop\studia\AIDS\Hex\x64\Debug\Hex.exe
